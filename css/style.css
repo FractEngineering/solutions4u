@@ -2,27 +2,35 @@
   padding: 0;
 }
 
-.red {
+.content {
   background-color: white;
   height: 700px;
 }
-.blue {
+.twitter {
   background-color: blue;
   height: 600px;
 }
-.black {
+.header {
   background-color: #2c3e50;
   height: 100px;
 }
-.green {
-  background-color: #34495e;
-  height: 100px;
+.footer {
+  padding: 20px 0;
+  box-sizing: content-box;
+  background-color: #2c3e50;
+  height: 200px;
 }
-.yellow {
+.contact {
+  background-color: #34495e;
+  height: 200px;
+}
+.menu {
   background-color: grey;
   height: 50px;
 }
+table {
+  width: 80%;
+  margin: auto;
+}
 .brands {
-  width: 10%;
-  height: 100px;
 }
