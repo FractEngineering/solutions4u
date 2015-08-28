@@ -12,3 +12,4 @@
 ## Handige links
 - [Bootstrap]("http://getbootstrap.com/css/")
 - [HTML Element Refrence]("http://www.w3schools.com/tags/default.asp")
+- [Flat UI Colors]("http://flatuicolors.com/")
