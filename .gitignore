@@ -2,3 +2,5 @@ node_modules/
 assets/
 .ftppass
 Gruntfile.js
+dist/
+js/scripts.js
