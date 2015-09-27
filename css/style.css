@@ -4,6 +4,7 @@
 .content {
   background-color: white;
   height: 700px;
+  padding: 30px;
 }
 .twitter {
   height: 600px;
@@ -31,7 +32,6 @@ table {
   margin: auto;
 }
 .twitter{
-  /*padding: 20px 20px;*/
   padding: 0;
   padding-top: 20px;
 }
@@ -40,8 +40,7 @@ table {
   display: block;
   width: 100%;
 }
-
-p {
-  font-size:18px;
-  font-family: ;
+.content p {
+  font-size: 16px;
+  margin: 20px 0;
 }

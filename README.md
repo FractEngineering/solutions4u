@@ -16,6 +16,7 @@
 - [ ] Adresgegevens toevoegen
 - [ ] Plaatjes dimensies fixen
 - [ ] Kleuren wijzigen
+- [ ] Twitter-timeline over gehele breedte
 
 ## Handige links
 - [Bootstrap]("http://getbootstrap.com/css/")
