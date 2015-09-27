@@ -31,9 +31,12 @@ table {
   margin: auto;
 }
 .twitter{
-  padding: 20px 20px;
+  /*padding: 20px 20px;*/
+  padding: 0;
+  padding-top: 20px;
 }
 .twitter-timeline{
   margin: auto;
   display: block;
+  width: 100%;
 }
