@@ -41,7 +41,22 @@ table {
   width: 100%;
 }
 
-p {
+.content p {
   font-size:18px;
   font-family: ;
+}
+
+.contact ul {
+  color: white;
+  list-style: none;
+  padding: 0;
+}
+
+.contact p{
+  color: white;
+  margin: 0;
+}
+
+.contact a {
+  color: white;
 }
