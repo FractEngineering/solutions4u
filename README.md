@@ -9,6 +9,14 @@
 | `README.md` | Documentatie op GitHub (dit bestand) | Nee |
 | `package.json` | Informatie over website | Nee |
 
+## To Do
+- [ ] Titel toevoegen
+- [ ] Logo toevoegen
+- [ ] Alle tekst toevoegen
+- [ ] Adresgegevens toevoegen
+- [ ] Plaatjes dimensies fixen
+- [ ] Kleuren wijzigen
+
 ## Handige links
 - [Bootstrap]("http://getbootstrap.com/css/")
 - [HTML Element Refrence]("http://www.w3schools.com/tags/default.asp")
